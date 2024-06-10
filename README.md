@@ -78,7 +78,7 @@
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/MrMKN/PROFESSOR-BOT](https://github.com/mynameissamm/PROFESSOR-BOT))
 </details>
 
 <details>
@@ -122,13 +122,13 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
+* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/devil_101010)
 
 ## Credit 💞
 
-* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/TeamEvamaria)
+* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/devil_101010)
 
-* [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/TeamEvamaria)
+* [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/devil_101010)
 
 
 ## Disclaimer
